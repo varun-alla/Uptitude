@@ -13,7 +13,7 @@ Logical Flow
 3. We can use diiferent databricks scripts for processing the raw Data and writing the processed data into the Database.
 4. The users of the database accordingly like the writer script has writing permissions but not read permissions and the credtials used for the powerbi visualization have only read access for viz tables only.
 
-The main reason for this minimal approach is the client specifically mentioned that he wants the dashboard to refreshed only once.
+The main reason for this minimal approach is the client specifically mentioned that he wants the dashboard to refreshed only once per day.
 
 ## About the restarauntsopeninghour script
 
