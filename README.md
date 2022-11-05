@@ -17,8 +17,10 @@ The main reason for this minimal approach is the client specifically mentioned t
 
 ## About the restarauntsopeninghour script
 
-The Goal of the script was to transform the table that can be queried.
+The Goal of the script was to transform the table from excel that can be queried.
 
 The transformations of the table are mosltly split pivot/unpivot droping nulls. Commented them as the flow goes in the program.
 
 The amount of data proceessed now is comparitvely low now. The Ideal thing in a production enev would using pyspark and sql querying.
+
+I followed the approach Extract Transform and Analyse .
